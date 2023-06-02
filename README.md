@@ -28,12 +28,9 @@ Matplotlib (for visualization)
  
  --> model.py : defined the architecture of the model
  
- --> utils.py :  
+ --> utils.py :  defining the training and testing functions
  
- 1. data downloading and applying transformations
- 2. defining the training and testing functions
- 
- --> S5.ipynb : importing all files and training and testing the model code and output of the model
+ --> S5.ipynb :  data downloading and applying transformations and training and testing the model code and output of the model
                  
   python model.py
   
