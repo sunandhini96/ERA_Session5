@@ -1,4 +1,4 @@
-# data downloading and applying transformations
+
 # defining the training and testing functions
 
 
