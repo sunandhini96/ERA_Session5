@@ -1,3 +1,7 @@
+# data downloading and applying transformations
+# defining the training and testing functions
+
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
